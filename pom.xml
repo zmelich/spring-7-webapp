@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.4.0</version>
+		<version>4.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>guru.springframework</groupId>
-	<artifactId>spring-6-webapp</artifactId>
+	<artifactId>spring-7-webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-6-webapp</name>
-	<description>Spring 6 Web App (ZsM)</description>
+	<name>spring-7-webapp</name>
+	<description>Spring 7 Web App (ZsM)</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>25</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
